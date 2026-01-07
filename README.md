@@ -42,7 +42,7 @@ Each module folder contains:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/learn-cli.git
+git clone https://github.com/Alienware2000/learn-cli.git
 cd learn-cli
 ```
 
